@@ -1,1 +1,2 @@
-should-be-ignored.txt
+.vscode
+.DS_Store
